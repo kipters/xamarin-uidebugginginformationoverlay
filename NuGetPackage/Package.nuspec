@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Kipware.UIDebuggingInformationOverlay</id>
+    <version>1.0.0</version>
+    <title>Xamarin.iOS UIDebuggingInformationOverlay</title>
+    <authors>Fabio Di Peri</authors>
+    <owners></owners>
+    <description>
+      Xamarin.iOS Binding for Apple's internal UIDebuggingInformationOverlay API. It shows a floating UIWindow that lets you inspect your view hierarchy and lots more!
+    </description>
+    <summary>
+      Xamarin.iOS Binding for Apple's internal UIDebuggingInformationOverlay API.
+    </summary>
+    <projectUrl>https://github.com/kipters/xamarin-uidebugginginformationoverlay</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/kipters/xamarin-uidebugginginformationoverlay/blob/master/LICENSE.md</licenseUrl>
+    <copyright>Copyright Fabio Di Peri 2017</copyright>
+    <tags>xamarin ios uidebugginginformationoverlay debug</tags>
+  </metadata>
+  <files>
+    <file src="..\UIDebuggingInformationOverlay\bin\Release\UIDebuggingInformationOverlay.dll" target="lib\Xamarin.iOS10" />
+    <file src="..\UIDebuggingInformationOverlay\bin\Release\UIDebuggingInformationOverlay.pdb" target="lib\Xamarin.iOS10" />
+  </files>
+</package>
